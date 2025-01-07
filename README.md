@@ -1,4 +1,4 @@
-# Otimiza Estoque v7 Full 🚀  
+# Otimiza Estoque v8 Full 🚀  
 
 **Plataforma Completa de Gestão Inteligente de Estoques e Logística**  
 
@@ -6,7 +6,7 @@ A **Otimiza Estoque** alcança um novo patamar com a versão **7 Full**, oferece
 
 ---
 
-## 🌟 O Que Há de Novo na v7?  
+## 🌟 O Que Há de Novo na v8?  
 
 ### 🔐 Acesso Personalizado  
 - **Login para Administradores e Operadores**: Controle de acesso seguro com funcionalidades específicas para cada perfil.  
@@ -23,7 +23,7 @@ A **Otimiza Estoque** alcança um novo patamar com a versão **7 Full**, oferece
 
 ---
 
-## 🎮 Prévia da v8 (Em Desenvolvimento)  
+## 🎮 Prévia da v9 (Em Desenvolvimento)  
 A **versão 8** trará ainda mais inovações para a experiência do usuário:  
 - **🏆 Gamificação Completa**: Para operadores e usuários, com desafios, rankings e recompensas.  
 - **📜 Relatórios Detalhados de Performance**: Histórico completo de operações, com métricas de desempenho por período.  
